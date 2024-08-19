@@ -1,5 +1,4 @@
 ## Bem-vindo(a) ao Meu Perfil 😁
-## Weber Colombo !
 
  <div>
    <a href="https://github.com/Webercolombo">
